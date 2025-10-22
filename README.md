@@ -35,4 +35,4 @@ Just like ChatGPT — it remembers previous chats, stores them in a database, an
 ```bash
 git clone https://github.com/sh-momina/LangGraph-Memory-Chatbot.git
 cd LangGraph-Memory-Chatbot
-final -> streamlit run ui_db.py
+streamlit run ui_db.py
